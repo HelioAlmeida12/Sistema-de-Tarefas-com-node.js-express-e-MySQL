@@ -14,7 +14,6 @@ Além disso, o projeto segue boas práticas de desenvolvimento, incluindo organi
 ❌ Exclusão de tarefas
 🔗 Integração com banco de dados MySQL
 
-
 🛠️ Tecnologias Utilizadas...
 Node.js
 Express
