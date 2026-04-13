@@ -6,13 +6,16 @@ O backend foi desenvolvido utilizando Node.js com o framework Express, proporcio
 
 Além disso, o projeto segue boas práticas de desenvolvimento, incluindo organização de código, separação de responsabilidades e utilização de padrões comuns no desenvolvimento de APIs.
 
-🚀 Funcionalidades
+🚀 Funcionalidades...
+
 ✅ Criação de novas tarefas
 📋 Listagem de tarefas cadastradas
 ✏️ Atualização de tarefas existentes
 ❌ Exclusão de tarefas
 🔗 Integração com banco de dados MySQL
-🛠️ Tecnologias Utilizadas
+
+
+🛠️ Tecnologias Utilizadas...
 Node.js
 Express
 MySQL
