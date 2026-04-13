@@ -11,12 +11,20 @@ Além disso, o projeto segue boas práticas de desenvolvimento, incluindo organi
 ✅ Criação de novas tarefas
 <br>
 📋 Listagem de tarefas cadastradas
+<br>
 ✏️ Atualização de tarefas existentes
+<br>
 ❌ Exclusão de tarefas
+<br>
 🔗 Integração com banco de dados MySQL
+<br>
 
 🛠️ Tecnologias Utilizadas...
+<br>
 Node.js
+<br>
 Express
+<br>
 MySQL
+<br>
 JavaScript (ES6+)
