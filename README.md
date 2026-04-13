@@ -9,6 +9,7 @@ Além disso, o projeto segue boas práticas de desenvolvimento, incluindo organi
 🚀 Funcionalidades...
 
 ✅ Criação de novas tarefas
+<br>
 📋 Listagem de tarefas cadastradas
 ✏️ Atualização de tarefas existentes
 ❌ Exclusão de tarefas
