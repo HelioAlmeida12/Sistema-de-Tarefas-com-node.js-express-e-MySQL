@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Todo App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Lista de Tarefas</h1>
+
+    <!-- Formulário de criação -->
+    <form id="taskForm">
+      <input type="text" id="description" placeholder="Digite a tarefa..." required>
+      <button type="submit">Adicionar</button>
+    </form>
+
+    <!-- Tarefas pendentes -->
+    <h2>Pendentes</h2>
+    <ul id="pendingTasks"></ul>
+
+    <!-- Tarefas concluídas -->
+    <h2>Concluídas</h2>
+    <ul id="completedTasks"></ul>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
